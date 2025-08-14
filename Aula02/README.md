@@ -6,10 +6,9 @@ Um componente importante do aprendizado de máquina é que estamos pegando algun
 
 Os dados podem vir em várias formas, mas os modelos de aprendizado de máquina dependem de quatro tipos de dados primários. Isso inclui dados numéricos, dados categóricos, dados de série temporal e dados de texto.
 
-# Tipos de Aprendizado de Máquina
-
 <img width="1360" height="654" alt="image" src="https://github.com/user-attachments/assets/9e0211d8-8c29-4747-b043-95535eaaf5bd" />
 
+# Tipos de Aprendizado de Máquina
 
 <img width="1213" height="868" alt="image" src="https://github.com/user-attachments/assets/0b9f8dee-4c63-4c2c-8423-d18c82c815e6" />
 
