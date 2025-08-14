@@ -12,6 +12,27 @@ Os dados podem vir em várias formas, mas os modelos de aprendizado de máquina 
 
 <img width="1213" height="868" alt="image" src="https://github.com/user-attachments/assets/0b9f8dee-4c63-4c2c-8423-d18c82c815e6" />
 
+Na aprendizagem não supervisionada, um sistema de IA é apresentado com dados não categorizados, e os algoritmos do sistema atuam nos dados sem treinamento prévio. 
+
+<img width="1591" height="455" alt="image" src="https://github.com/user-attachments/assets/58978811-9aca-429e-85c7-3750a6583647" />
+
+# Visão Geral da Aprendizagem por Reforço
+
+Um algoritmo de aprendizado de reforço, ou agente, aprende interagindo com seu ambiente.  
+O agente recebe recompensas executando corretamente e penalidades por executar incorretamente. 
+O agente aprende sem a intervenção de um humano, maximizando sua recompensa e minimizando sua penalidade. 
+É um tipo de programação dinâmica que treina algoritmos usando um sistema de recompensa e punição.
+
+<img width="514" height="511" alt="image" src="https://github.com/user-attachments/assets/45b9902f-f18e-4f88-b5f8-f36a85b30cb0" />
+
+# Diferença entre Modelos e Algoritmos
+
+No aprendizado de máquina, a distinção principal de um modelo e um algoritmo é:
+Modelos são as representações específicas aprendidas dos dados
+Algoritmos são os processos de aprendizagem
+
+    Modelo = Algoritmo(dados)
+
 
 # Modelos de Clusterização
 ### Pipeline de Machine Learning
@@ -25,6 +46,13 @@ Os dados podem vir em várias formas, mas os modelos de aprendizado de máquina 
 A etapa do treinamento é fundamental não apenas para preparar a máquina, mas para aprimorar constantemente suas habilidades de previsão.
 
 A avaliação permite testar se, após o treinamento, a máquina está suficientemente capacitada.
+
+## Etapas de Desenvolvimento Machine Learning  
+
+<img width="1205" height="555" alt="image" src="https://github.com/user-attachments/assets/ac0d9e65-8bd7-4e41-830d-1023887f9e2a" />
+
+<img width="1428" height="334" alt="image" src="https://github.com/user-attachments/assets/132096c7-4399-488e-9d4d-56713a61de8e" />
+
 
 ---
 
