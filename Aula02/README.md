@@ -16,6 +16,11 @@ Na aprendizagem não supervisionada, um sistema de IA é apresentado com dados n
 
 <img width="1591" height="455" alt="image" src="https://github.com/user-attachments/assets/58978811-9aca-429e-85c7-3750a6583647" />
 
+<img width="938" height="469" alt="image" src="https://github.com/user-attachments/assets/41b5e988-f3ef-4b01-8ffb-821e33960965" />
+
+<img width="938" height="469" alt="image" src="https://github.com/user-attachments/assets/4570b306-5c4f-4873-8cad-f983f36d939f" />
+
+
 # Visão Geral da Aprendizagem por Reforço
 
 Um algoritmo de aprendizado de reforço, ou agente, aprende interagindo com seu ambiente.  
@@ -25,27 +30,14 @@ O agente aprende sem a intervenção de um humano, maximizando sua recompensa e 
 
 <img width="514" height="511" alt="image" src="https://github.com/user-attachments/assets/45b9902f-f18e-4f88-b5f8-f36a85b30cb0" />
 
-# Diferença entre Modelos e Algoritmos
-
-No aprendizado de máquina, a distinção principal de um modelo e um algoritmo é:
-Modelos são as representações específicas aprendidas dos dados
-Algoritmos são os processos de aprendizagem
-
-    Modelo = Algoritmo(dados)
-
-
-# Modelos de Clusterização
-### Pipeline de Machine Learning
-- Modelos de Regressão
-- Modelos de Classificação
-
----
-
 ## Construção dos Modelos – Treinamento e Avaliação
 
 A etapa do treinamento é fundamental não apenas para preparar a máquina, mas para aprimorar constantemente suas habilidades de previsão.
 
 A avaliação permite testar se, após o treinamento, a máquina está suficientemente capacitada.
+
+<img width="699" height="500" alt="image" src="https://github.com/user-attachments/assets/5b9bd37a-1d92-4e9a-9956-822b77a14bc6" />
+
 
 ## Etapas de Desenvolvimento Machine Learning  
 
@@ -60,15 +52,15 @@ A avaliação permite testar se, após o treinamento, a máquina está suficient
 
 O objetivo de construir um modelo de aprendizado de máquina é resolver um problema, e um modelo de aprendizado de máquina só pode fazer isso quando estiver em produção e sendo usado ativamente pelos consumidores.
 
+<img width="1201" height="575" alt="image" src="https://github.com/user-attachments/assets/929c3381-8129-42a9-aa64-85ceea7a66aa" />
+
+
 ---
 
 ## Cargos que efetuam as etapas de desenvolvimento
 
-Nenhum indivíduo possui habilidades suficientes para realizar todas as tarefas no desenvolvimento de projetos de IA. Assim, as equipes incluem indivíduos que se concentram em parte do ciclo.
+<img width="1688" height="697" alt="image" src="https://github.com/user-attachments/assets/942c7cfa-f0bf-451a-888f-a78d2427d644" />
 
----
-
-## O viés humano e a ética por trás da Inteligência Artificial | ANA CRISTINA | TEDxNiteroi
 
 ---
 
