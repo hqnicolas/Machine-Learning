@@ -15,6 +15,7 @@ Existem dois tipos principais de regressão linear:
 
 * **Regressão Linear Simples**: Usa apenas uma **única variável independente (X)** para fazer a predição.
 * **Regressão Linear Múltipla**: Usa **várias variáveis independentes (X)** para fazer a predição.
+<img width="819" height="460" alt="image" src="https://github.com/user-attachments/assets/cdcccbc8-1b26-4d74-ae92-d5129da050d5" />
 
 ---
 
@@ -30,9 +31,15 @@ $Y = \alpha + \beta X + \epsilon$
 * **X**: Variável **explicativa** (independente).
 * **$\epsilon$**: Os **valores residuais**, que representam possíveis erros ou a parte da variável Y que não pode ser explicada por X.
 
+<img width="881" height="507" alt="image" src="https://github.com/user-attachments/assets/cff029f1-9f78-4627-be69-dd581f87f4b3" />
+
+
 ---
 
 ### Método de Separação: Treino e Teste (Holdout)
+
+![Uploading image.png…]()
+
 
 O método **Holdout** é uma técnica comum para avaliar a performance de um modelo. Ele consiste em dividir o conjunto total de dados em dois subconjuntos:
 
