@@ -20,10 +20,6 @@ A principal inovação do SVR é o conceito do **tubo epsilon-insensitive**. Dif
 
 O objetivo do algoritmo não é minimizar o erro, mas sim garantir que o maior número possível de pontos de dados esteja **dentro** desse tubo, onde o erro é considerado zero.
 
-\<p align="center"\>
-\<img src="[https://miro.medium.com/max/1400/1\*1pW3tGg7tO4jI41q-Co7PA.png](https://www.google.com/search?q=https://miro.medium.com/max/1400/1*1pW3tGg7tO4jI41q-Co7PA.png)" alt="Epsilon-Insensitive Tube" width="600"/\>
-\</p\>
-
 ### Termos Essenciais
 
   - **Margem de Tolerância ($\\epsilon$):** É a largura do tubo. Pontos de dados que caem dentro desta margem não recebem nenhuma penalidade.
