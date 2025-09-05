@@ -38,9 +38,6 @@ $Y = \alpha + \beta X + \epsilon$
 
 ### Método de Separação: Treino e Teste (Holdout)
 
-![Uploading image.png…]()
-
-
 O método **Holdout** é uma técnica comum para avaliar a performance de um modelo. Ele consiste em dividir o conjunto total de dados em dois subconjuntos:
 
 * **Conjunto de Treino**: Usado para **treinar** o modelo e estimar seus parâmetros. Geralmente corresponde a cerca de **70%** dos dados.
