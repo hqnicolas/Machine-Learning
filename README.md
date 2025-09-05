@@ -1,7 +1,8 @@
 # Machine-Learning
 # [Pipeline de Machine Learning](https://github.com/hqnicolas/Machine-Learning/tree/main/Aula02)
-- [Aula2.md](https://github.com/hqnicolas/Machine-Learning/tree/main/Aula02) O aprendizado de máquina (machine learning)
-- [Aula03.md](https://github.com/hqnicolas/Machine-Learning/tree/main/Aula03) Pré-processamento de dados (Titanic)
-- [titanicLogisticRegression.ipynb](https://github.com/hqnicolas/Machine-Learning/blob/main/Aula04/titanicLogisticRegression.ipynb) Aplicando Regressão Logística
-- [Aula04.md](https://github.com/hqnicolas/Machine-Learning/tree/main/Aula04) Regressão Linear e KNN
-- [FishClassification.ipynb](https://github.com/hqnicolas/Machine-Learning/blob/main/Aula04/FishClassification.ipynb) Classificação usando KNN (Vizinhos)
+- [Aula02.md](/Aula02) O aprendizado de máquina (machine learning)
+- [Aula03.md](/Aula03) Pré-processamento de dados (Titanic)
+- [Aula04.md](/Aula04) Regressão Linear e KNN
+- [Aula05/DecisionTreeClassification](/Aula05/Decision%20Tree%20Classification) Árvores de Decisão Para Classificação
+- [Aula05/SupportVectorClassification](/Aula05/Support%20Vector%20Classification) Support Vector Machine (SVM) para Classificação
+- [Aula05/SupportVectorRegression](/Aula05/Support%20Vector%20Regression) Support Vector Regression (SVR)
