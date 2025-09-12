@@ -6,3 +6,4 @@
 - [Aula05/DecisionTreeClassification](/Aula05/Decision%20Tree%20Classification) Árvores de Decisão Para Classificação
 - [Aula05/SupportVectorClassification](/Aula05/Support%20Vector%20Classification) Support Vector Machine (SVM) para Classificação
 - [Aula05/SupportVectorRegression](/Aula05/Support%20Vector%20Regression) Support Vector Regression (SVR)
+- [Aula06.md](/Aula06) Resumo das atividades
