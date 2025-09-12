@@ -11,6 +11,6 @@ Este repositório contém as respostas para a primeira lista de exercícios da d
 - [Link](/Aula06/ex008.md) parâmetro `max_depth`
 - [Link](/Aula06/ex009.md) Support Vector Machine
 - [Link](/Aula06/ex010.md) Árvore de Decisão e o risco de overfitting
-- [Link](/Aula06/ex011.md) Pesquisa de Datasets
-- [Link](/Aula06/ex012.md) Pesquisa de Datasets
-- [Link](/Aula06/ex013.md) Pesquisa de Datasets
+- [Link](/Aula06/ex011.md) Índice de Gini e a Entropia/Ganho
+- [Link](/Aula06/ex012.md) pontos fora do tubo no SVM?
+- [Link](/Aula06/ex013.md) `etube` muito estreito
