@@ -8,10 +8,6 @@
 
 Se baseia na ideia de divisão dos dados em grupos homogêneos, podendo ser utilizadas em um cenário de classificação ou regressão.
 
-![Exemplo de Árvore de Decisão para Regressão](https://storage.googleapis.com/generativeai-downloads/images/05e19e075051a1157e3f053597d519b7)
-
-![Exemplo de Árvore de Decisão para Classificação](https://storage.googleapis.com/generativeai-downloads/images/d378297b5e40632b49231f452e257a07)
-
 ---
 
 ## Floresta Aleatória – Random Forest
@@ -24,19 +20,21 @@ A "floresta" que ele cria é uma combinação (ensemble) de árvores de decisão
 
 ### Funcionamento
 
-![Diagrama do Funcionamento do Random Forest](https://storage.googleapis.com/generativeai-downloads/images/50f90033c5e88414400e9603f7d13eb7)
+<img width="936" height="454" alt="image" src="https://github.com/user-attachments/assets/c61de19c-6a42-415a-a0d7-e08c709fa709" />
+
+<img width="1383" height="818" alt="image" src="https://github.com/user-attachments/assets/3a1d05c5-8507-4e23-b531-cb734a733bb7" />
 
 ---
 
 ### Regressão
+<img width="1052" height="729" alt="image" src="https://github.com/user-attachments/assets/ac4fa298-cdb7-4234-9fab-08e81584e499" />
 
-![Diagrama de Regressão com Random Forest](https://storage.googleapis.com/generativeai-downloads/images/3fc179a32c2a05786dd6312411e7372d)
 
 ---
 
 ### Classificação
+<img width="1087" height="694" alt="image" src="https://github.com/user-attachments/assets/6c483b9e-fcc2-49b3-8da1-836c4f897bc6" />
 
-![Diagrama de Classificação com Random Forest](https://storage.googleapis.com/generativeai-downloads/images/0c069b16867e163b82736186b51c142d)
 
 ---
 
