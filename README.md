@@ -7,3 +7,5 @@
 - [Aula05/SupportVectorClassification](/Aula05/Support%20Vector%20Classification) Support Vector Machine (SVM) para Classificação
 - [Aula05/SupportVectorRegression](/Aula05/Support%20Vector%20Regression) Support Vector Regression (SVR)
 - [Aula06.md](/Aula06) Resumo das atividades
+- [Aula07.md](/Aula07) Floresta Aleatória
+
