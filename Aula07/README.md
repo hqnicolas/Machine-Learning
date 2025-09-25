@@ -316,3 +316,4 @@ Escolha um conjunto de dados que permita para tarefa de classificação ou regre
 1.  Treine um modelo de Árvore de Decisão para resolver cada tarefa e registre os resultados(métricas de desempenho).
 2.  Em seguida, treine um modelo de Floresta Randômica (Random Forest) com os mesmos dados.
 3.  Compare os resultados obtidos, mostrando que, em geral, a Floresta Randômica apresenta melhor desempenho e maior capacidade de generalização do que uma única Árvore de Decisão.
+4. Prove que uma Floresta de decisão é mais eficiente do que uma árvore de decisão
