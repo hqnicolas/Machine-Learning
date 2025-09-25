@@ -8,6 +8,8 @@
 
 Se baseia na ideia de divisão dos dados em grupos homogêneos, podendo ser utilizadas em um cenário de classificação ou regressão.
 
+<img width="936" height="454" alt="image" src="https://github.com/user-attachments/assets/c61de19c-6a42-415a-a0d7-e08c709fa709" />
+
 ---
 
 ## Floresta Aleatória – Random Forest
@@ -19,8 +21,6 @@ A "floresta" que ele cria é uma combinação (ensemble) de árvores de decisão
 ---
 
 ### Funcionamento
-
-<img width="936" height="454" alt="image" src="https://github.com/user-attachments/assets/c61de19c-6a42-415a-a0d7-e08c709fa709" />
 
 <img width="1383" height="818" alt="image" src="https://github.com/user-attachments/assets/3a1d05c5-8507-4e23-b531-cb734a733bb7" />
 
