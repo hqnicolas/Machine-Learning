@@ -1,5 +1,7 @@
-#Treino, Validação e Teste
+# Treino, Validação e Teste
 ## Conceitos de Overfitting e Underfitting
+
+[Concept.ipynb](/Aula08/K-Fold.ipynb)
 
 Underfitting e Overfitting são dois termos extremamente importantes no ramo do machine learning.
 
