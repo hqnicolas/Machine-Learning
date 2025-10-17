@@ -9,3 +9,5 @@
 - [Aula06.md](/Aula06) Resumo das atividades
 - [Aula07.md](/Aula07) Floresta Aleatória
 - [Aula08.md](/Aula08) Método Holdout
+- [Aula09.md](/Aula09) Métricas de Avaliação
+- [Aula10.md](/Aula10) K-Means Clustering
