@@ -20,14 +20,23 @@ Deploy é o processo de disponibilizar um modelo treinado para uso em um ambient
 ### Batch
 * O modelo processa dados periodicamente (ex.: previsões diárias).
 * **Exemplo:** Previsão de demanda semanal.
+  
+<img width="1624" height="464" alt="image" src="https://github.com/user-attachments/assets/e3cf000c-bd04-43bc-af02-834bf0d3ad81" />
+
 
 ### Online/Real-Time
 * O modelo recebe e processa dados em tempo real.
 * **Exemplo:** Previsões de recomendação em um e-commerce.
 
+<img width="1548" height="401" alt="image" src="https://github.com/user-attachments/assets/6398f0df-cd17-4f9c-a8e1-2f7df2a16fc8" />
+
+
 ### Edge Deployment
 * Modelos rodando em dispositivos locais com recursos limitados.
 * **Exemplo:** Reconhecimento de imagens em dispositivos móveis.
+
+<img width="1488" height="477" alt="image" src="https://github.com/user-attachments/assets/71d8c5a2-58ef-4a05-a00a-0294c7b5a982" />
+
 
 *(Diagrama de TheAiEdge.io ilustrando os tipos de deploy: Batch, Real-time, Streaming, Edge)*
 
